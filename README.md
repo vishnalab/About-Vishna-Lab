@@ -1,4 +1,9 @@
-![image](https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/14b3ff63-667c-4c43-8556-5ac248c6a92e)![image](https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/10465c22-aa29-4e34-80a8-44afc9d6fdb5)# Vishna-Lab
+<p align="center">
+  
+# Vision and Network Analytics (VIShNA) Lab
+
+</p>
+
 <p align="center">
 <img width="500" alt="image" src="https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/eaecc07e-930a-4ff5-a164-29103fc65ef5">
 </p>
