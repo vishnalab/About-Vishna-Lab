@@ -14,8 +14,11 @@ Recently Multicoreware have deligated funds to recognize "Fall Detection from Vi
 
 ## Team
 <p align="center">
-![260916091-37654a28-1736-4812-a561-97f4dbd3be8b](https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/3d6ce216-69b0-4c73-b648-386b20f0fa8d)
+<img width="300" alt="image" src="https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/8f3d3888-4c4b-4807-a0ca-9a8b65615ce4)">
 </p>
-
-
+<p align="center">
+Dr. Padmavathi S.<br />
+Area of Specialization: Computer Vision<br />
+Google Site:(https://sites.google.com/view/dr-s-padmavathi/home)
+</p>
 
