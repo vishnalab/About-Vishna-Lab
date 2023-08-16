@@ -55,10 +55,35 @@ Official Site:(https://www.amrita.edu/faculty/dr-raghesh-krishnan-k/)<br />
 <p align="center">
  Dr. Aarthi R <br />
 Area of Specialization:  Visual Attention models, Computer vision, Image Processing , Artificial Intelligence <br />
-Official Site:([https://www.amrita.edu/faculty/dr-raghesh-krishnan-k/](https://www.amrita.edu/faculty/r-aarthi/)https://www.amrita.edu/faculty/r-aarthi/)<br />
+Official Site:(https://www.amrita.edu/faculty/r-aarthi/)<br />
 </p>
 
+<p align="center">
+<img width="300" alt="image" src="https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/83ddec4f-10a8-4485-beba-aec9ca0bb3db">
+</p>
+<p align="center">
+ Dr. Sikha O. K <br />
+Area of Specialization: Computer Vision <br />
+Official Site:(https://www.amrita.edu/faculty/sikha-o-k/)<br />
+</p>
 
+<p align="center">
+<img width="300" alt="image" src="https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/e7ea997b-391f-4f89-9ada-3bbcfa5bd45b">
+</p>
+<p align="center">
+Dr. T.Gireesh Kumar <br />
+Area of Specialization: Secure Network Analytics and Formal Varification <br />
+Google Site:(https://sites.google.com/view/mlab-gireeshkumar/home)<br />
+</p>
+
+<p align="center">
+<img width="300" alt="image" src="https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/4cd59a92-0b14-4928-91de-ee7ef4c1420f">
+</p>
+<p align="center">
+Dr. Jeyakumar G <br />
+Area of Specialization: Evolutionary Computing, Artificial Intelligence, Parallel and Distributed Computing, Video Analytics. <br />
+Google Site:(https://sites.google.com/view/drjeyakumar/home)<br />
+</p>
 
 
 
