@@ -1,8 +1,4 @@
 # Vishna-Lab
-<p align="center">
-<img width="500" alt="image" src="![Picture 1](https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/299f3683-4776-4bcc-9328-bbe74d4737c8)">
-</p>
-
 Complete Documentation - [VIShNA_Lab_October_2022.pdf](https://github.com/vishnalab/About-Vishna-Lab/files/12356111/VIShNA_Lab_October_2022.pdf)
 
 ## Current Projects
@@ -16,6 +12,10 @@ A framework for event modeling and detection for Smart Buildings using Vision Sy
 ## Ongoing Projects 
 Recently Multicoreware have deligated funds to recognize "Fall Detection from Videos"
 
+## Team
+<p align="center">
+![260916091-37654a28-1736-4812-a561-97f4dbd3be8b](https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/3d6ce216-69b0-4c73-b648-386b20f0fa8d)
+</p>
 
 
 
