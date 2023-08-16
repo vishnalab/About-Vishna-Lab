@@ -85,5 +85,14 @@ Area of Specialization: Evolutionary Computing, Artificial Intelligence, Paralle
 Google Site:(https://sites.google.com/view/drjeyakumar/home)<br />
 </p>
 
+<p align="center">
+<img width="300" alt="image" src="https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/fe29b23e-7b89-420e-b25c-c00d72d4aa54">
+</p>
+<p align="center">
+Dr. Lalithamani N. <br />
+Area of Specialization: Biometrics, Image Processing, Information retrieval,Advanced Databases <br />
+Google Site:(https://sites.google.com/view/n-lalithamani/home)<br />
+</p>
+
 
 
