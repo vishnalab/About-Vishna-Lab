@@ -1,4 +1,7 @@
-![image](https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/10465c22-aa29-4e34-80a8-44afc9d6fdb5)# Vishna-Lab
+![image](https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/14b3ff63-667c-4c43-8556-5ac248c6a92e)![image](https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/10465c22-aa29-4e34-80a8-44afc9d6fdb5)# Vishna-Lab
+<p align="center">
+<img width="500" alt="image" src="https://github.com/vishnalab/About-Vishna-Lab/assets/108512980/eaecc07e-930a-4ff5-a164-29103fc65ef5">
+</p>
 Complete Documentation - [VIShNA_Lab_October_2022.pdf](https://github.com/vishnalab/About-Vishna-Lab/files/12356111/VIShNA_Lab_October_2022.pdf)
 
 ## Current Projects
@@ -93,6 +96,22 @@ Dr. Lalithamani N. <br />
 Area of Specialization: Biometrics, Image Processing, Information retrieval,Advanced Databases <br />
 Google Site:(https://sites.google.com/view/n-lalithamani/home)<br />
 </p>
+
+## Core Team Strength
+* Computer Vision Algorithms for real time application
+* Medical Image processing and Health care analytics
+* Developing algorithms for detection and Tracking for Asset Analysis
+* Thermal Image Camera Analysis 
+* Hyperspectral Image analysis
+* Deep learning Architectures ,Transfer learning Models
+* Video Analytics approach for real time problems
+* BioMetric Algorithms
+* Satellite Image Analysis – change detection, object detection and tracking
+* Developing Algorithms for increasing the security and trust among users and nodes (I,e camera nodes)
+
+
+
+
 
 
 
